@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "16083460668",
+    "firebase_url": "https://er24-92962.firebaseio.com",
+    "project_id": "er24-92962",
+    "storage_bucket": "er24-92962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16083460668:android:b83ac60092924b84",
+        "android_client_info": {
+          "package_name": "com.example.prosp.er24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16083460668-2r51b2mhgj131geuk7mdgt7ljlkl06s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwrA-h1VoBC8-1CCw58ZG3ajnboDnekIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16083460668-2r51b2mhgj131geuk7mdgt7ljlkl06s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
